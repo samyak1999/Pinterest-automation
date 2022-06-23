@@ -1,3 +1,4 @@
+![image](https://mspoweruser.com/wp-content/uploads/2022/03/pini2.png)
 # Pinterest-automation
 This repo contains python scripts to automate pin creation in pinterest.
 
