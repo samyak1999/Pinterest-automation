@@ -20,3 +20,5 @@ A log file will be created in the start of program execution, which acts as a bl
   - Manually close the pop up 
   
 ### For adding pins for multiple users current user is logged out automatically and re-login is done 
+
+## Do give a star 🌟
